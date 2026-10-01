@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ГДЗ по русскому, 5 класс (Ладыженская)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ГДЗ по русскому языку</h1>
+    <p>5 класс, учебник Ладыженской</p>
+  </<div class="container">
+    <div class="grid">
+      <div class="card color-1">
+        <h3>Упражнение 1</h3>
+        <p>Условие задания из учебника...</p>
+        <a href="exercise-1.html" class="btn">Смотреть решение</a>
+      </div>
+      <div class="card color-2">
+        <h3>Упражнение 2</h3>
+        <p>Условие задания из учебника...</p>
+        <a href="exercise-2.html" class="btn">Смотреть решение</a>
+      </div>
+      <div class="card color-3">
+        <h3>Упражнение 3</<p>Условие задания из учебника...</p>
+        <a href="exercise-3.html" class="btn">Смотреть решение</a>
+      </div>
+      <div class="card color-4">
+        <h3>Упражнение 4</h3>
+        <p>Условие задания из учебника...</p>
+        <a href="exercise-4.html" class="btn">Смотреть решение</a>
+      </div>
+      <div class="card color-5">
+        <h3>Упражнение 5</h3>
+        <p>Условие задания из учебника...</p>
+        <a href="exercise-5.html" class="btn">Смотреть решение</a>
+      </</div>
+  </div>
+</body>
+</html>
